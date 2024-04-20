@@ -1,0 +1,118 @@
+ [
+    {
+        "p_id" : 1,
+        "p_name" : "House Plant",
+        "p_price" : 2000,
+        "p_category" : "green",
+        "p_img" : "https://img.freepik.com/free-photo/decorative-houseplant-isolated-white-background_157027-3500.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=sph"
+    },
+    {
+        "p_id" : 2,
+        "p_name" : "Aglaonema",
+        "p_price" : 2499,
+        "p_category" : "green",
+        "p_img" : "https://img.freepik.com/free-photo/decorative-houseplant-isolated-white-background_157027-3544.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=sph"
+    },
+    {
+        "p_id" : 3,
+        "p_name" : "African Violets",
+        "p_price" : 2599,
+        "p_category" : "flower",
+        "p_img" : "https://img.freepik.com/free-photo/beautiful-red-poinsettia-composition_23-2149138701.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=ais"
+    },
+    {
+        "p_id" : 4,
+        "p_name" : "Faux-Watermelon",
+        "p_price" : 2999,
+        "p_category" : "green",
+        "p_img" : "https://img.freepik.com/free-photo/faux-watermelon-peperomia-plant-gray-pot_53876-110373.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=sph"
+    },
+    {
+        "p_id" : 5,
+        "p_name" : "Money Plant",
+        "p_price" : 2000,
+        "p_category" : "green",
+        "p_img" : "https://img.freepik.com/premium-photo/houseplant-pot-isolated-white-background_1045163-1109.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=sph"
+    },
+    {
+        "p_id" : 6,
+        "p_name" : "Dianthus",
+        "p_price" : 1899,
+        "p_category" : "flower",
+        "p_img" : "https://img.freepik.com/free-photo/green-blooming-object-still-vase_1172-311.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=ais"
+    },
+    
+    {
+        "p_id" : 7,
+        "p_name" : "Boho Flower",
+        "p_price" : 3000,
+        "p_category" : "flower",
+        "p_img" : "https://img.freepik.com/premium-photo/pink-roses-white-vase-table-background-white-wall_176873-13112.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=ais"
+    }
+    ,
+    {
+        "p_id" : 8,
+        "p_name" : "Boho Flower -2",
+        "p_price" : 2750,
+        "p_category" : "flower",
+        "p_img" : "https://img.freepik.com/free-photo/fresh-bouquet-beautiful-pottery-vase-generative-ai_188544-12801.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=ais"
+    },
+    {
+        "p_id" : 9,
+        "p_name" : "Boho Flower -3",
+        "p_price" : 1750,
+        "p_category" : "flower",
+        "p_img" : "https://img.freepik.com/free-photo/fresh-bouquet-yellow-daisies-pretty-vase-generative-ai_188544-12800.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=ais"
+    },
+    {
+        "p_id" : 10,
+        "p_name" : "Jade PLant",
+        "p_price" : 1650,
+        "p_category" : "green",
+        "p_img" : "https://img.freepik.com/premium-photo/green-houseplant-isolated_90839-567.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=ais"
+    },
+    {
+        "p_id" : 11,
+        "p_name" : "Palm",
+        "p_price" : 1490,
+        "p_category" : "green",
+        "p_img" : "https://img.freepik.com/free-photo/ruffled-leaf-palm-plant-rattan-basket_53876-133122.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=sph"
+    },
+    {
+        "p_id" : 12,
+        "p_name" : "Swiss Cheese",
+        "p_price" : 2099,
+        "p_category" : "green",
+        "p_img" : "https://img.freepik.com/free-photo/monstera-deliciosa-plant-flowerpot-isolated-white-background_1142-32459.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=sph"
+    },
+    {
+        "p_id" : 13,
+        "p_name" : "banana-plant",
+        "p_price" : 2800,
+        "p_category" : "green",
+        "p_img" : "https://img.freepik.com/premium-photo/potted-banana-plant-isolated-white-background_563584-264.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=sph"
+    },
+    {
+        "p_id" : 14,
+        "p_name" : "Boho Flower -3",
+        "p_price" : 1750,
+        "p_category" : "flower",
+        "p_img" : "https://img.freepik.com/free-photo/bouquet-roses-white-vase_23-2148822244.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=ais"
+    },
+    {
+        "p_id" : 15,
+        "p_name" : "White Flower -3",
+        "p_price" : 1750,
+        "p_category" : "flower",
+        "p_img" : "https://img.freepik.com/free-photo/white-flowers-assortment-white-vase_23-2148822331.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=ais"
+    },
+    {
+        "p_id" : 16,
+        "p_name" : "Rose",
+        "p_price" : 1750,
+        "p_category" : "flower",
+        "p_img" : "https://img.freepik.com/free-photo/composition-white-table-delicious-meal_23-2148941035.jpg?size=626&ext=jpg&ga=GA1.1.1181520329.1678190750&semt=ais"
+    }
+
+]
+
